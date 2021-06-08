@@ -1,0 +1,7 @@
+#To run pip on cmd when
+
+#check version
+py -m pip --version
+
+#installations using pip
+py -m pip list
