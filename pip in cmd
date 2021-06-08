@@ -5,3 +5,6 @@ py -m pip --version
 
 #installations using pip
 py -m pip list
+
+
+![pip in cmd](https://user-images.githubusercontent.com/37784976/121235265-4b6b7700-c8b2-11eb-8929-bd775b2598bf.jpg)
